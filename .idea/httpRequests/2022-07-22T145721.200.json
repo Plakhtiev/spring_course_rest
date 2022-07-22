@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Zaur",
+    "surname": "Tregulov",
+    "department": "IT",
+    "salary": 500
+  },
+  {
+    "id": 2,
+    "name": "Oleg",
+    "surname": "Ivanov",
+    "department": "Sales",
+    "salary": 700
+  },
+  {
+    "id": 3,
+    "name": "Nina",
+    "surname": "Sidorova",
+    "department": "HR",
+    "salary": 850
+  },
+  {
+    "id": 4,
+    "name": "Jaroslav",
+    "surname": "Plakhtiev",
+    "department": "IT",
+    "salary": 12900
+  },
+  {
+    "id": 5,
+    "name": "Maria",
+    "surname": "Semeniva",
+    "department": "Sales",
+    "salary": 1000
+  }
+]

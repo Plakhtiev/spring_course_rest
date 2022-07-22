@@ -1,0 +1,32 @@
+GET http://localhost/api/employees
+
+###
+
+GET http://localhost:8080/spring_course_rest/api/employees
+Accept: application/json
+
+<> 2022-07-22T145721.200.json
+
+###
+
+GET http://localhost:8080/spring_course_rest/api/employees
+Accept: application/json
+
+<> 2022-07-22T145120.404.html
+
+###
+
+GET http://localhost:8080/spring_course_rest/api/employees
+Accept: application/json
+
+<> 2022-07-22T144956.404.html
+
+###
+
+GET http://localhost:8080/api/employees
+Accept: application/json
+
+<> 2022-07-22T144921.404.html
+
+###
+
